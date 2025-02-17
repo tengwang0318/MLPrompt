@@ -21,11 +21,12 @@ Based on this insight, we proposed **MLPrompt**, a novel method that utilizes **
 If you find this work useful for your research, please consider citing our paper:
 
 ```
-@article{wang2024large,
-  title={Large Language Models are Good Multi-lingual Learners: When LLMs Meet Cross-lingual Prompts},
+@inproceedings{wang2025large,
+  title={Large Language Models are good multi-lingual learners: When LLMs meet cross-lingual prompts},
   author={Wang, Teng and He, Zhenqi and Yu, Wing-Yin and Fu, Xiaojin and Han, Xiongwei},
-  journal={arXiv preprint arXiv:2409.11056},
-  year={2024}
+  booktitle={Proceedings of the 31st International Conference on Computational Linguistics},
+  pages={4442--4456},
+  year={2025}
 }
 ```
 
